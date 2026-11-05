@@ -20,4 +20,4 @@ Multi-tenant por `organizations`. Ao se cadastrar, o usuário ganha uma organiza
 
 ## Scripts
 
-- `npm run dev` · `npm run build` · `npm run lint` · `npx tsc --noEmit`
+- `npm run dev` · `npm run build` · `npm run lint` · `npm run typecheck`
